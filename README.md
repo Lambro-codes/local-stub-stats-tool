@@ -1,5 +1,5 @@
 
-# Layer7 local dstat
+# Layer7 local stats
 
 Simple tool compatible on Linux and Windows for monitoring requests per second of any  nginx stub status
 
